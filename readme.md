@@ -1,6 +1,6 @@
 <img align="left" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="250" />
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=435&height=53&lines=I'm+learning+machine+learning" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=435&height=53&lines=I'm+learning+java" alt="Typing SVG" /></a></h3>
 
 - 🔭 I’m currently working on **personal project**
 
